@@ -54,14 +54,14 @@ The approach taken in the traffic simulation script ensures accuracy, simplicity
 ## Usage
 1. **Prepare the Dataset**:
     - Save traffic data in an Excel file named `traffic_data.xlsx`. The file should consist of columns in the following order:
-        - "Orgin" Indicates the orgin of vehicle. 
-        - "Destination" Indicates the destination of vehicle.
+        - `Orgin` Indicates the orgin of vehicle. 
+        - `Destination` Indicates the destination of vehicle.
         - `Time Interval`: Indicates time segments (e.g., "08:00-08:15").
         - `Count`: Number of cars arriving within the time segment.
-    ***Example:
+***Example***:
 <img width="464" alt="Screenshot 2025-01-09 at 2 53 37 PM" src="https://github.com/user-attachments/assets/d439da1a-c831-4b97-bd0d-7f6642270219" />
 
-
+-
 
 2. **Run the Simulation**:
     - Execute the script:
