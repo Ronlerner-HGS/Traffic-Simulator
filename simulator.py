@@ -14,8 +14,8 @@ def simulate_traffic_for_interval(cars_at_start, arriving_rate, passing_rate, re
         cars_at_start (int): The number of cars waiting at the start of the cycle.
         arriving_rate (float): The rate at which cars arrive per minute during the red light.
         passing_rate (int): The rate at which cars can pass through the intersection per minute during the green light.
-        red_light_duration (int, optional): The duration of the red light in seconds. Defaults to 30 seconds.
-        green_light_duration (int, optional): The duration of the green light in seconds. Defaults to 30 seconds.
+        red_light_duration (int, optional): The duration of the red light in seconds.
+        green_light_duration (int, optional): The duration of the green light in seconds.
 
     Returns:
         dict: A dictionary with the following keys:
@@ -23,7 +23,7 @@ def simulate_traffic_for_interval(cars_at_start, arriving_rate, passing_rate, re
             - "Cars passing through" (int): Total cars that passed the intersection during the green light.
             - "Cars arriving" (float): Cars arriving during the red light.
             - "Cars remaining after cycle" (float): Cars left waiting after the red and green light cycle.    """
-    # Cars arriving during red light (rate is per minute, so adjusting for seconds)
+    # Cars arriving during red light (rate is per minute,so coverts to minutes from seconds.)
     cars_arriving = arriving_rate * (red_light_duration / 60)
     # Cars stopping at red
     cars_stopping = cars_at_start + cars_arriving
