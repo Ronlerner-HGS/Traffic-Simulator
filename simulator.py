@@ -46,6 +46,7 @@ time_intervals = df['Time Interval'].unique()
 
 for interval in time_intervals:
     # Filter data for the current time interval
+    #checks if Dataframe has the Time Interval data needed.
     if 'Time Interval' in df.columns:
         interval_data = df[df['Time Interval'] == interval]
     else:
