@@ -96,4 +96,4 @@ Each time interval produces the following metrics:
     - Extend the model to handle multi-lane intersections for more complex simulations.
 
 ## License
-This project is open-source and available under the [[CC0 License](https://github.com/Ronlerner-HGS/Traffic-Simulator/tree/main?tab=CC0-1.0-1-ov-file#CC0-1.0-1-ov-file)]().
+This project is open-source and available under the [CC0 License](https://github.com/Ronlerner-HGS/Traffic-Simulator/tree/main?tab=CC0-1.0-1-ov-file#CC0-1.0-1-ov-file).
