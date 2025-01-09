@@ -61,7 +61,10 @@ The approach taken in the traffic simulation script ensures accuracy, simplicity
 ***Example***:
 <img width="464" alt="Screenshot 2025-01-09 at 2 53 37 PM" src="https://github.com/user-attachments/assets/d439da1a-c831-4b97-bd0d-7f6642270219" />
 
--
+
+
+
+
 
 2. **Run the Simulation**:
     - Execute the script:
