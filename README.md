@@ -94,8 +94,6 @@ Each time interval produces the following metrics:
 
 4. **Multi-Lane Simulations**:
     - Extend the model to handle multi-lane intersections for more complex simulations.
-1. 
-    - 
-___________________________________________________________________________________________________________________________________________________________________________
+
 ## License
 This project is open-source and available under the [MIT License]().
