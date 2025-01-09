@@ -43,9 +43,13 @@ def simulate_traffic_for_interval(cars_at_start, arriving_rate, passing_rate, re
 
 # Loop through the data and simulate traffic for each time interval
 time_intervals = df['Time Interval'].unique()
+
 for interval in time_intervals:
     # Filter data for the current time interval
-    interval_data = df[df['Time Interval'] == interval]
+    if 'Time Interval' in df.columns:
+        interval_data = df[df['Time Interval'] == interval]
+    else:
+        print("Column 'Time Interval' not found in DataFrame")
 
     total_cars_arriving = interval_data['Count'].sum()
 
