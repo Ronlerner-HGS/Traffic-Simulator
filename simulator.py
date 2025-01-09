@@ -32,7 +32,7 @@ def simulate_traffic_for_interval(cars_at_start, arriving_rate, passing_rate, re
     green_time_in_minutes = green_light_duration / 60
     cars_passed = min(cars_stopping, int(passing_rate * green_time_in_minutes))
     cars_remaining = cars_stopping - cars_passed  # Cars remaining after green ends
-
+#im the best
     return {
         "Cars stopping at red": cars_stopping,
         "Cars passing through": cars_passed,
