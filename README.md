@@ -1,5 +1,5 @@
 # Traffic Simulation System
-# if you are interested the problem and my proposed solution click [here](https://github.com/Ronlerner-HGS/Traffic-Simulator/blob/main/problem.md):
+# if you are interested in the problem and my proposed solution click [here](https://github.com/Ronlerner-HGS/Traffic-Simulator/blob/main/problem.md):
 ## Overview
 This project provides a traffic simulation system that models the flow of vehicles through a red-green traffic light cycle for one or more time intervals. It is implemented using **Python** and leverages the **pandas** library to handle the input dataset containing traffic data.
 The script analyzes traffic flow based on configurable parameters, such as:
