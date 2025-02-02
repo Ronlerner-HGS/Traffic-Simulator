@@ -27,7 +27,7 @@ Traffic data reveals a significant imbalance in vehicle distribution across diff
    - Inefficient traffic signal management and road design.
 
 # My Proposed Windsor-Chebucto-Cunard Roundabout Solution
-![408880130-c0187215-8335-48f1-b110-a0b57af393d0](https://github.com/user-attachments/assets/5ef7b0dc-fbe7-4ccf-9f7d-29c768369d5d)
+![408880130-c0187215-8335-48f1-b110-a0b57af393d0](https://github.com/user-attachments/assets/5ef7b0dc-fbe7-4ccf-9f7d-29c768369d5d) ![408880130-c0187215-8335-48f1-b110-a0b57af393d0(1)](https://github.com/user-attachments/assets/b3df8600-6fd6-4f45-b0ce-975fd37ff005)
 
 ## Overview
 This solution implements an innovative double-teardrop roundabout design to optimize traffic flow at the intersection of Windsor Street, Chebucto Road, and Cunard Street. The solution specifically addresses the traffic imbalance where Windsor_South experiences heavy congestion while Cunard_East and Chebucto_West remain underutilized.
