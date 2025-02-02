@@ -29,6 +29,82 @@ Traffic data reveals a significant imbalance in vehicle distribution across diff
 ## Proposed Solutions
 1. **Traffic Diversion Strategies**
    - My proposal is to create this roundabout that will reduce the west and east traffic effect on southern traffic.
-   ![image](https://github.com/user-attachments/assets/c0187215-8335-48f1-b110-a0b57af393d0)
+   ![image](https://github.com/user-attachments/assets/c0187215-8335-48f1-b110-a0b57af393d0
+
+   # Windsor-Chebucto-Cunard Roundabout Solution
+## Overview
+This solution implements an innovative double-teardrop roundabout design to optimize traffic flow at the intersection of Windsor Street, Chebucto Road, and Cunard Street. The solution specifically addresses the traffic imbalance where Windsor_South experiences heavy congestion while Cunard_East and Chebucto_West remain underutilized.
+
+## Problem Analysis
+Current traffic data shows significant imbalances during peak hours:
+- Windsor_South: Heavy traffic (40-90 vehicles per 15-min interval)
+- Cunard_East: Moderate traffic (12-23 vehicles per 15-min interval)
+- Chebucto_West: Minimal traffic (0-2 vehicles per 15-min interval)
+
+## Solution Design
+### Key Features
+1. Double-Teardrop Configuration
+   - Two connected roundabouts forming a figure-eight pattern
+   - Smooth flow-through design prioritizing north-south movement
+   - Dedicated slip lanes for right turns
+
+2. Traffic Flow Optimization
+   - Continuous movement for Windsor Street (north-south) traffic
+   - Controlled yield points for Chebucto and Cunard traffic
+   - Elimination of traditional traffic signals
+
+3. Safety Elements
+   - Pedestrian crosswalks at key points
+   - Clear lane markings and directional indicators
+   - Traffic calming through geometric design
+
+## Benefits
+1. **Improved Windsor Street Flow**
+   - Eliminates stop-and-go traffic
+   - Reduces congestion during peak hours
+   - Maintains priority for dominant traffic direction
+
+2. **Better Integration of Cross Traffic**
+   - Smooth merging for Cunard_East traffic
+   - Efficient handling of Chebucto_West vehicles
+   - Reduced wait times at intersection points
+
+3. **Enhanced Safety**
+   - Lower vehicle speeds through curved design
+   - Clearer traffic patterns
+   - Reduced collision risk points
+
+## Implementation Considerations
+1. Construction Phases
+   - Initial groundwork and utilities adjustment
+   - Roundabout construction while maintaining partial traffic flow
+   - Final surface work and lane marking
+
+2. Traffic Management During Construction
+   - Temporary detours
+   - Phased implementation to minimize disruption
+   - Clear signage and public communication
+
+## Expected Outcomes
+1. **Traffic Flow Metrics**
+   - 30-40% reduction in peak hour delays
+   - Increased throughput for Windsor Street
+   - Better utilization of Cunard and Chebucto capacity
+
+2. **Safety Improvements**
+   - Reduced collision risk
+   - Better pedestrian crossing safety
+   - Lower average vehicle speeds
+
+## Future Monitoring
+1. **Performance Metrics**
+   - Traffic count comparisons
+   - Travel time studies
+   - Accident rate monitoring
+
+2. **Adjustment Capabilities**
+   - Lane marking modifications if needed
+   - Signage optimization
+   - Response to usage patterns
 
 
